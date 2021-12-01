@@ -1,3 +1,5 @@
+![Banner](CO2-LOGO.jpg)
+
 # About
 Sustainable Framlingham is a volunteer group set up to advise the [Framlingham Town Council](https://framlingham.com/framlingham-town-council/) on sustainability issues covering:
 
