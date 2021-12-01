@@ -1,5 +1,5 @@
 # About
-Sustainable Framlingham is a volunteer group set up to advise the Framlingham Town Council on sustainability issues covering:
+Sustainable Framlingham is a volunteer group set up to advise the [Framlingham Town Council](https://framlingham.com/framlingham-town-council/) on sustainability issues covering:
 
  * Emissions reduction - reducing our 'carbon' footprint
  * Biodiversity enhancement - making space for nature
